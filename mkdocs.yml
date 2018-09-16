@@ -2,7 +2,7 @@ site_name: Keras 中文文档
 theme: readthedocs
 docs_dir: sources
 repo_url: https://github.com/keras-team/keras-docs-zh
-site_url: http://keras.io/zh/
+site_url: https://ocml.github.io/keras-docs-zh/
 # theme_dir: ../keras/docs/theme
 site_description: 'Keras，Python 深度学习库中文文档。'
 
